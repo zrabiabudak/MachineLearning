@@ -1,2 +1,2 @@
 # MachineLearning
-Machine Learning  Regression 
+Machine Learning Linear Regression 
